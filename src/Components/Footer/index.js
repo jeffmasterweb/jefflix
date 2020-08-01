@@ -9,7 +9,7 @@ function Footer() {
         <img src={jefflix} alt="Logo jefflix" style={{  width:'100px'}} />
       </a>
       <p>
-        Criado com React Js 
+        Criado com React Js. 
         {' '}
         <a href="https://jeffmasterweb.github.io/">
           Jeff Design
