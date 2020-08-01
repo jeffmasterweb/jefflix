@@ -14,7 +14,7 @@ function Home() {
       <BannerMain 
         videoTitle={dadosIniciais.categorias[3].videos[1].titulo}
         url={dadosIniciais.categorias[3].videos[1].url}
-        videoDescription={"Você conhece o novo som que está procurando? Bem, ouça isso! O futuro inteiro de Marty McFly se baseia em ser capaz de tocar violão na dança Enchantment Under the Sea de seus pais, desde 1955. Assista a ele tocando Earth Angel e Johnny B. Goode!"}
+        videoDescription={"Você conhece o novo som que está procurando? Bem, ouça isso! O futuro inteiro de Marty McFly se baseia em ser capaz de tocar violão na dança Enchantment Under the Sea de seus pais, desde 1955. Assista a ele tocando Earth Angel e Johnny B. Goode!!"}
       />
 
       <Carousel 
